@@ -1,5 +1,5 @@
 ---
-title: Locations
+title: Brewery
 layout: locations
 permalink: /locations.html
 # see theme.yml for options
