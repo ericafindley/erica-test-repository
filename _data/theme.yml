@@ -40,12 +40,12 @@ about-featured-image: pbs0012
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
-browse-buttons: true # true/false, adds previous/next arrows to item pages
+browse-buttons: false # true/false, adds previous/next arrows to item pages
 
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
